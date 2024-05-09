@@ -10,7 +10,7 @@
 I am a passionate and self-motivated undergraduate student pursuing my Bachelor's degree in Information Technology from NIT Raipur. I have a keen interest in web development and enjoy working with cutting-edge technologies to create interactive and user-friendly web applications.
 
 ## 🚀 Skills
-- HTML 5
+- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.spec.whatwg.org/)
 - CSS 3
 - Tailwind CSS
 - JavaScript
